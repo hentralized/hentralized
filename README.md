@@ -1,6 +1,12 @@
 # Hello Everyone 👋
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=360&text=Hentralized&fontSize=80&fontAlign=50&fontAlignY=50&desc=Changhun+Jeong%27s+page&descSize=30&descAlign=50&descAlignY=70)
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHentralized&edge_flat=true&title=hits)
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+
+
+**🛠️ Infra and Tools**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 <!--
 **hentralized/hentralized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
