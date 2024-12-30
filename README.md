@@ -1,9 +1,12 @@
-## Hi there 👋
-
+# Hello Everyone 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=360&text=Hentralized&fontSize=80&fontAlign=50&fontAlignY=50&desc=Changhun+Jeong%27s+page&descSize=30&descAlign=50&descAlignY=70)
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHentralized&edge_flat=true&title=hits)
 <!--
 **hentralized/hentralized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
